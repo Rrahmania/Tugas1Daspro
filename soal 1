@@ -1,4 +1,4 @@
-program tugas;
+programtugas;
 uses crt;
 begin
     clrscr;
