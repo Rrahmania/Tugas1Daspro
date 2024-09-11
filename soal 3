@@ -1,0 +1,18 @@
+program biodata;
+uses crt;
+var 
+    nama,nim,kom,alamat:string;
+begin
+    clrscr;
+    write('masukan nama anda :');
+    readln(nama);
+    write('masukan nim anda :');
+    readln(nim);
+    write('masukan kom anda :');
+    readln(kom);
+    write('masukan alamat anda :');
+    readln(alamat);
+    readln;
+    writeln('halo nama saya', nama,'nim saya',nim,'saya di kom',kom,'alamat saya di',alamat);
+    writeln('salam kenal semua nya!');
+end.
