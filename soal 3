@@ -13,6 +13,6 @@ begin
     write('masukan alamat anda :');
     readln(alamat);
     readln;
-    writeln('halo nama saya ', nama,'nim saya ',nim,'saya di kom ',kom,'alamat saya di ',alamat);
+    writeln('halo nama saya ', nama,' nim saya ',nim,' saya di kom ',kom,' alamat saya di ',alamat);
     writeln('salam kenal semua nya!');
 end.
