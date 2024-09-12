@@ -1,0 +1,20 @@
+program tugas;
+uses crt;
+var
+    jalan, kota: string;
+    no, kodepos: string;
+
+begin
+    clrscr;
+    write('masukan nama jalan: ');
+    readln(jalan);
+    write('masukan nomor: ');
+    readln(no);
+    write('masukana nama kota: ');
+    readln(kota);
+    write('masukan kode pos: ');
+    readln(kodepos);
+
+    writeln('jalan alamat ', jalan,' no ', no,' ', kota,' ', kodepos);
+
+end.
