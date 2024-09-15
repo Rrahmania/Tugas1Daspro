@@ -12,6 +12,6 @@ begin
     writeln('agustus');
     writeln('september');
     writeln('oktober');
-    writeln('noveber');
+    writeln('november);
     writeln('desember');
 end.
